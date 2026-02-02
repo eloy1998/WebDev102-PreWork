@@ -32,6 +32,17 @@ GIF created with ...
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
+
+
+<div>
+    <a href="https://www.loom.com/share/584a138fd822421aa17209d6df1ca992">
+    </a>
+    <a href="https://www.loom.com/share/584a138fd822421aa17209d6df1ca992">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/584a138fd822421aa17209d6df1ca992-ce5b288c188844c0-full-play.gif#t=0.1">
+    </a>
+  </div>
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
